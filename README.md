@@ -26,11 +26,11 @@ Antes de começar, certifique-se de ter os seguintes itens instalados no seu sis
    git clone https://github.com/EricSoares02/structured_tables.git
    cd onde-esta-o-repo
 
-2. Clone este repositório:
+2. Instalar as dependências:
    ```bash
    pip install pandas openpyxl tabula-py
 
-3. Executar este repositório:
+3. Executar este projeto:
    ```bash
    python main.py
 
