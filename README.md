@@ -1,16 +1,37 @@
-# Mini Aplicação Python
+# Estruturação de dados
 
-> Um projeto simples para [descrever o objetivo da aplicação, ex.: calcular, processar dados, etc.].
+> Um projeto simples para coversão, tratamento e estruturação dados.
 
 ## 🛠️ Funcionalidades
 
-- [Funcionalidade 1: Exemplo, realizar cálculos básicos]
-- [Funcionalidade 2: Exemplo, processar um arquivo de texto]
-- [Funcionalidade 3: Exemplo, exibir informações no console]
+- Ler tabelas em de arquivos PDF
+- Coverter Tabelas
+- Estruturar dados
+- Gerar xlsx
+
+## ✅ Pré-requisitos
+
+Antes de começar, certifique-se de ter os seguintes itens instalados no seu sistema:
+
+- Python   
+- pip (gerenciador de pacotes do Python)  
+- Java 8+ (Jdk para operação do tabula) 
+- Git (para clonar o repositório, opcional) 
+
 
 ## 🚀 Como Executar o Projeto
 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   cd onde-esta-o-repo
+
+2. Clone este repositório:
+   ```bash
+   pip install pandas openpyxl tabula-py
+
+3.Executar este repositório:
+   ```bash
+   python main.py
+
+
